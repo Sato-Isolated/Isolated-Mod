@@ -1,0 +1,16 @@
+{
+  "stat.pickup.tm.emerald_boots": 1,
+  "stat.walkOneCm": 251,
+  "stat.drop": 13,
+  "stat.jump": 9,
+  "stat.playOneMinute": 704,
+  "stat.drop.tm.emerald_boots": 2,
+  "stat.pickup.tm.emerald_leggings": 1,
+  "stat.drop.tm.emerald_leggings": 2,
+  "stat.drop.minecraft.dirt": 8,
+  "stat.timeSinceDeath": 704,
+  "stat.pickup.minecraft.dirt": 9,
+  "stat.useItem.minecraft.dirt": 4,
+  "stat.mineBlock.minecraft.dirt": 1,
+  "stat.drop.tm.emerald_helmet": 1
+}

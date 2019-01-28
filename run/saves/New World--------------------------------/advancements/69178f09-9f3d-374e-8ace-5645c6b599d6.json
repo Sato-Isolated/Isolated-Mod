@@ -1,0 +1,16 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-01-05 19:28:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2019-01-05 19:30:13 +0100",
+      "plains": "2019-01-05 19:27:48 +0100",
+      "ocean": "2019-01-05 19:29:49 +0100"
+    },
+    "done": false
+  }
+}

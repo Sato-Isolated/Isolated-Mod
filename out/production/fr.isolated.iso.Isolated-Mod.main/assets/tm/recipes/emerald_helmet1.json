@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "RRR",
+    "R R"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "tm:emerald_helmet",
+    "count": 1
+  }
+}

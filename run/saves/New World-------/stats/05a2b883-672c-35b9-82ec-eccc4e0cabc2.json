@@ -1,0 +1,12 @@
+{
+  "stat.walkOneCm": 150,
+  "stat.drop": 2,
+  "stat.jump": 4,
+  "stat.playOneMinute": 3929,
+  "stat.sneakTime": 4,
+  "stat.drop.minecraft.dirt": 2,
+  "stat.timeSinceDeath": 3929,
+  "stat.pickup.minecraft.dirt": 6,
+  "stat.useItem.minecraft.dirt": 1,
+  "stat.mineBlock.minecraft.dirt": 4
+}

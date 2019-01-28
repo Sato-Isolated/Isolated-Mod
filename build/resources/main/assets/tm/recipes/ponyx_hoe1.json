@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " RR",
+    " E ",
+    " E "
+  ],
+  "key": {
+    "R": {
+      "item": "tm:ponyx_ingot"
+    },
+    "E": {
+      "item": "tm:iron_stick"
+    }
+  },
+  "result": {
+    "item": "tm:ponyx_hoe",
+    "count": 1
+  }
+}

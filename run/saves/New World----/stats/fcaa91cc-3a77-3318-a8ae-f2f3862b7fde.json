@@ -1,0 +1,13 @@
+{
+  "stat.flyOneCm": 4255,
+  "stat.walkOneCm": 4584,
+  "stat.jump": 17,
+  "stat.swimOneCm": 888,
+  "stat.playOneMinute": 2836,
+  "stat.sneakTime": 52,
+  "stat.crouchOneCm": 95,
+  "stat.timeSinceDeath": 2836,
+  "stat.useItem.minecraft.stone_slab2": 4,
+  "stat.diveOneCm": 939,
+  "stat.useItem.minecraft.potion": 1
+}

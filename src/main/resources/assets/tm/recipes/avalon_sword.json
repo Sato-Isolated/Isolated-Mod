@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  R",
+    "ZR ",
+    "EZ "
+  ],
+  "key": {
+    "R": {
+      "item": "tm:avalon"
+    },
+    "E": {
+      "item": "tm:iron_stick"
+    },
+    "Z": {
+      "item": "tm:demonic_eye"
+    }
+  },
+  "result": {
+    "item": "tm:avalon_sword",
+    "count": 1
+  }
+}

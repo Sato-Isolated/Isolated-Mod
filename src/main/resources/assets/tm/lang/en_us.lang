@@ -1,0 +1,102 @@
+
+//Items
+item.ruby.name=Ruby
+item.obsidian_ingot.name=Obsidian Ingot
+item.iron_stick.name=Iron Stick
+item.onyx_dirty.name=Dirty Onyx
+item.onyx_perfect.name=Perfect Onyx
+item.avalon.name=Avalon
+item.sapphire_dirty.name=Dirty Sapphire
+item.obsidite.name=Obsidite
+item.topaze.name=Topaze
+item.dragonscale.name=Dragon Scale
+item.dragonclaw.name=Dragon Claw
+item.sapphire_perfect.name=Perfect Sapphire
+
+//Blocks
+tile.ruby_block.name=Block of Ruby
+tile.ruby_ore.name=Ruby Ore
+
+//Emerald
+item.emerald_axe.name=Emerald Pickaxe
+item.emerald_pickaxe.name=Emerald Axe
+item.emerald_shovel.name=Emerald Shovel
+item.emerald_sword.name=Emerald Sword
+item.emerald_hoe.name=Emerald Hoe
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_chestplate.name=Emerald Chestplate
+item.emerald_leggings.name=Emerald Leggings
+item.emerald_boots.name=Emerald Boots
+
+//Avalon
+item.avalon_axe.name=Avalon Pickaxe
+item.avalon_pickaxe.name=Avalon Axe
+item.avalon_shovel.name=Avalon Shovel
+item.avalon_sword.name=Avalon Sword
+item.avalon_hoe.name=Avalon Hoe
+item.avalon_helmet.name=Avalon Helmet
+item.avalon_chestplate.name=Avalon Chestplate
+item.avalon_leggings.name=Avalon Leggings
+item.avalon_boots.name=Avalon Boots
+
+//Topaze
+item.topaze_axe.name=Topaze Pickaxe
+item.topaze_pickaxe.name=Topaze Axe
+item.topaze_shovel.name=Topaze Shovel
+item.topaze_sword.name=Topaze Sword
+item.topaze_hoe.name=Topaze Hoe
+item.topaze_helmet.name=Topaze Helmet
+item.topaze_chestplate.name=Topaze Chestplate
+item.topaze_leggings.name=Topaze Leggings
+item.topaze_boots.name=Topaze Boots
+
+//Obsidite
+item.obsidite_axe.name=Obsidite Pickaxe
+item.obsidite_pickaxe.name=Obsidite Axe
+item.obsidite_shovel.name=Obsidite Shovel
+item.obsidite_sword.name=Obsidite Sword
+item.obsidite_hoe.name=Obsidite Hoe
+item.obsidite_helmet.name=Obsidite Helmet
+item.obsidite_chestplate.name=Obsidite Chestplate
+item.obsidite_leggings.name=Obsidite Leggings
+item.obsidite_boots.name=Obsidite Boots
+
+//Dragon Scale
+item.dragonscale_axe.name=Dragon Scale Pickaxe
+item.dragonscale_pickaxe.name=Dragon Scale Axe
+item.dragonscale_shovel.name=Dragon Scale Shovel
+item.dragonscale_sword.name=Dragon Scale Sword
+item.dragonscale_hoe.name=Dragon Scale Hoe
+item.dragonscale_helmet.name=Dragon Scale Helmet
+item.dragonscale_chestplate.name=Dragon Scale Chestplate
+item.dragonscale_leggings.name=Dragon Scale Leggings
+item.dragonscale_boots.name=Dragon Scale Boots
+
+//Perfect Onyx
+item.ponyx_axe.name=Perfect Onyx Pickaxe
+item.ponyx_pickaxe.name=Perfect Onyx Axe
+item.ponyx_shovel.name=Perfect Onyx Shovel
+item.ponyx_sword.name=Perfect Onyx Sword
+item.ponyx_hoe.name=Perfect Onyx Hoe
+item.ponyx_helmet.name=Perfect Onyx Helmet
+item.ponyx_chestplate.name=Perfect Onyx Chestplate
+item.ponyx_leggings.name=Perfect Onyx Leggings
+item.ponyx_boots.name=Perfect Onyx Boots
+
+//Perfect Sapphire
+item.psapphire_axe.name=Perfect Sapphire Pickaxe
+item.psapphire_pickaxe.name=Perfect Sapphire Axe
+item.psapphire_shovel.name=Perfect Sapphire Shovel
+item.psapphire_sword.name=Perfect Sapphire Sword
+item.psapphire_hoe.name=Perfect Sapphire Hoe
+item.psapphire_helmet.name=Perfect Sapphire Helmet
+item.psapphire_chestplate.name=Perfect Sapphire Chestplate
+item.psapphire_leggings.name=Perfect Sapphire Leggings
+item.psapphire_boots.name=Perfect Sapphire Boots
+
+//Tab
+itemGroup.ArmorAndWeapon=Isolated Armors Weapons Tools
+itemGroup.BlockOreItem=Isolated Blocks Ores Items
+//Food
+item.evil_apple.name=Evil Apple
+

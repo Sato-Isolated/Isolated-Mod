@@ -1,0 +1,41 @@
+  public ClientProxy() {
+        MinecraftForge.EVENT_BUS.register(this);
+    }
+
+    @SubscribeEvent
+    public void onInitGuiEventA(GuiScreenEvent.InitGuiEvent.Post event){
+        if (event.getGui() instanceof GuiMainMenu) {
+            for (Object b : event.getButtonList()) {
+                if (((GuiButton) b).id == 2) {
+                    ((GuiButton) b).visible = false;
+                }
+                int i = event.getGui().height / 4 + 48;
+                event.getButtonList().add(new GuiButton(32, event.getGui().width / 100 - 2, i + 24 * 2, 100, 20, "Connect To Avalon PvP Faction"));
+            }
+        }
+    }
+
+    @SubscribeEvent
+    public void onInitGuiEvent(GuiScreenEvent.InitGuiEvent.Post event) {
+        if (event.getGui() instanceof GuiMainMenu) {
+            for (Object b : event.getButtonList()) {
+                if (((GuiButton) b).id == 14) {
+                    ((GuiButton) b).visible = false;
+                }
+            }
+            int i = event.getGui().height / 4 + 48;
+            event.getButtonList().add(new GuiButton(30, event.getGui().width / 2 + 2, i + 24 * 2,100,20, "Forum") {
+                @Override
+                public void mouseReleased(int x, int y) {
+                    if (Desktop.isDesktopSupported()) {
+                        try {
+                            Desktop.getDesktop().browse(new URI("http://avalon-pvp.fr/"));
+                        } catch (Exception e) {
+                            Main.LOGGER.warn("Couldn't open the browser", e);
+                        }
+                    }
+                }
+            });
+            ObfuscationReflectionHelper.setPrivateValue(GuiMainMenu.class, (GuiMainMenu)event.getGui(), "Bienvenue sur Avalon PvP Faction", "SplashText");
+        }
+    }

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  R",
+    "ZR ",
+    "EZ "
+  ],
+  "key": {
+    "R": {
+      "item": "tm:psaphir_ingot"
+    },
+    "E": {
+      "item": "tm:iron_stick"
+    },
+    "Z": {
+      "item": "tm:obsidite_ingot"
+    }
+  },
+  "result": {
+    "item": "tm:psaphir_sword",
+    "count": 1
+  }
+}

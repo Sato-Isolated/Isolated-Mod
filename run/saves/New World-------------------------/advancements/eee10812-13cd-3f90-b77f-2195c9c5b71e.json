@@ -1,0 +1,16 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2018-12-16 21:42:18 +0100",
+      "frozen_river": "2018-12-16 21:42:42 +0100",
+      "forest": "2018-12-16 21:44:26 +0100",
+      "extreme_hills_with_trees": "2018-12-16 21:44:20 +0100",
+      "ice_mountains": "2018-12-16 21:42:05 +0100",
+      "ocean": "2018-12-16 21:43:38 +0100",
+      "extreme_hills": "2018-12-16 21:44:06 +0100",
+      "cold_beach": "2018-12-16 21:43:37 +0100",
+      "river": "2018-12-16 21:43:19 +0100"
+    },
+    "done": false
+  }
+}

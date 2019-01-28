@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "R R",
+    "R R"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "tm:emerald_leggings",
+    "count": 1
+  }
+}

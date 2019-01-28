@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "RRR",
+    "R R"
+  ],
+  "key": {
+    "R": {
+      "item": "tm:avalon"
+    }
+  },
+  "result": {
+    "item": "tm:avalon_helmet",
+    "count": 1
+  }
+}

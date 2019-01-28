@@ -1,0 +1,101 @@
+
+//Items
+item.onyx_dirty.name=Onyx Brut
+item.onyx_perfect.name=Onyx Parfait
+item.avalon.name=Avalon
+item.sapphire_dirty.name=Saphir Brut
+item.obsidite.name=Obsidite
+item.topaze.name=Topaze
+item.dragonscale.name=Écaille de dragon
+item.dragonclaw.name=Griffe de dragon
+item.sapphire_perfect.name=Saphir Parfait
+item.ruby.name=Ruby
+item.obsidian_ingot.name=Lingot d'Obsidite
+item.iron_stick.name=Bâton en fer
+
+//Blocks
+tile.ruby_block.name=Block de ruby
+tile.ruby_ore.name=Minerai de ruby
+
+//Tabs
+itemGroup.ArmorAndWeapon=Isolated Armures et Armes
+itemGroup.BlockOreItem=Isolated Blocks Minerais Items
+//Emerald
+item.emerald_axe.name=Hache en Émeraude
+item.emerald_pickaxe.name=Pioche en Émeraude
+item.emerald_shovel.name=Pelle en Émeraude
+item.emerald_sword.name=Épée en Émeraude
+item.emerald_hoe.name=Houe en Émeraude
+item.emerald_helmet.name=Casque en Émeraude
+item.emerald_chestplate.name=Plastron en Émeraude
+item.emerald_leggings.name=Jambières en Émeraude
+item.emerald_boots.name=Bottes en Émeraude
+
+//Avalon
+item.avalon_axe.name=Pioche en Avalon
+item.avalon_pickaxe.name=Hache en Avalon
+item.avalon_shovel.name=Pelle en Avalon
+item.avalon_sword.name=Épée en Avalon
+item.avalon_hoe.name=Houe en Avalon
+item.avalon_helmet.name=Casque en Avalon
+item.avalon_chestplate.name=Plastron en Avalon
+item.avalon_leggings.name=Jambières en Avalon
+item.avalon_boots.name=Bottes en Avalon
+
+//Topaze
+item.topaze_axe.name=Pioche en Topaze
+item.topaze_pickaxe.name=Hache en Topaze
+item.topaze_shovel.name=Pelle en Topaze
+item.topaze_sword.name=Épée en Topaze
+item.topaze_hoe.name=Houe en Topaze
+item.topaze_helmet.name=Casque en Topaze
+item.topaze_chestplate.name=Plastron en Topaze
+item.topaze_leggings.name=Jambières en Topaze
+item.topaze_boots.name=Bottes en Topaze
+
+//Obsidite
+item.obsidite_axe.name=Pioche en Obsidite
+item.obsidite_pickaxe.name=Hache en Obsidite
+item.obsidite_shovel.name=Pelle en Obsidite
+item.obsidite_sword.name=Épée en Obsidite
+item.obsidite_hoe.name=Houe en Obsidite
+item.obsidite_helmet.name=Casque en Obsidite
+item.obsidite_chestplate.name=Plastron en Obsidite
+item.obsidite_leggings.name=Jambières en Obsidite
+item.obsidite_boots.name=Bottes en Obsidites
+
+//Dragon Scale
+item.dragonscale_axe.name=Pioche en Écaille de dragon
+item.dragonscale_pickaxe.name=Hache en Écaille de dragon
+item.dragonscale_shovel.name=Pelle en Écaille de dragon
+item.dragonscale_sword.name=Épée en Griffe de dragon
+item.dragonscale_hoe.name=Houe en Écaille de dragon
+item.dragonscale_helmet.name=Casque en Écaille de dragon
+item.dragonscale_chestplate.name=Plastron en Écaille de dragon
+item.dragonscale_leggings.name=Jambières en Écaille de dragon
+item.dragonscale_boots.name=Bottes en Écaille de dragon
+
+//Perfect Onyx
+item.ponyx_axe.name=Pioche en Onyx Parfait
+item.ponyx_pickaxe.name=Hache en Onyx Parfait
+item.ponyx_shovel.name=Pelle en Onyx Parfait
+item.ponyx_sword.name=Épée en Onyx Parfait
+item.ponyx_hoe.name=Houe en Onyx Parfait
+item.ponyx_helmet.name=Casque en Onyx Parfait
+item.ponyx_chestplate.name=Plastron en Onyx Parfait
+item.ponyx_leggings.name=Jambières en Onyx Parfait
+item.ponyx_boots.name=Bottes en Onyx Parfait
+
+//Perfect Sapphire
+item.psapphire_axe.name=Pioche en Saphir Parfait
+item.psapphire_pickaxe.name=Hache en Saphir Parfait
+item.psapphire_shovel.name=Pelle en Saphir Parfait
+item.psapphire_sword.name=Épée en Saphir Parfait
+item.psapphire_hoe.name=Houe en Saphir Parfait
+item.psapphire_helmet.name=Casque en Saphir Parfait
+item.psapphire_chestplate.name=Plastron en Saphir Parfait
+item.psapphire_leggings.name=Jambières en Saphir Parfait
+item.psapphire_boots.name=Bottes en Saphir Parfait
+
+//Food
+item.evil_apple.name=Evil Apple

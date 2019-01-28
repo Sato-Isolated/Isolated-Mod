@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "R R",
+    "R R"
+  ],
+  "key": {
+    "R": {
+      "item": "tm:dragonscale_ingot"
+    }
+  },
+  "result": {
+    "item": "tm:dragonscale_leggings",
+    "count": 1
+  }
+}

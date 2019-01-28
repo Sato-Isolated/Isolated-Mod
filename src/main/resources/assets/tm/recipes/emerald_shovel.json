@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    " E ",
+    " E "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:emerald"
+    },
+    "E": {
+      "item": "tm:iron_stick"
+    }
+  },
+  "result": {
+    "item": "tm:emerald_shovel",
+    "count": 1
+  }
+}

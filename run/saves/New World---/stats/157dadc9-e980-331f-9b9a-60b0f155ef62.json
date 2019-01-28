@@ -1,0 +1,16 @@
+{
+  "stat.flyOneCm": 1011,
+  "stat.walkOneCm": 5414,
+  "stat.jump": 23,
+  "stat.swimOneCm": 350,
+  "stat.playOneMinute": 3530,
+  "stat.useItem.tm.emerald_sword": 3,
+  "stat.sneakTime": 30,
+  "stat.damageTaken": 154,
+  "stat.damageDealt": 201,
+  "stat.timeSinceDeath": 3530,
+  "stat.killEntity.ZombieVillager": 1,
+  "stat.mobKills": 1,
+  "stat.useItem.minecraft.spawn_egg": 6,
+  "stat.diveOneCm": 329
+}

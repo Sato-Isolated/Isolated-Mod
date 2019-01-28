@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  R",
+    "ZR ",
+    "EZ "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:emerald"
+    },
+    "E": {
+      "item": "tm:iron_stick"
+    },
+    "Z": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "tm:emerald_sword",
+    "count": 1
+  }
+}

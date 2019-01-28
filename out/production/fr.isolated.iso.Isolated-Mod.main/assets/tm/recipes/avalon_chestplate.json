@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "tm:avalon"
+    }
+  },
+  "result": {
+    "item": "tm:avalon_chestplate",
+    "count": 1
+  }
+}

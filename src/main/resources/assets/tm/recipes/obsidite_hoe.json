@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RR ",
+    " E ",
+    " E "
+  ],
+  "key": {
+    "R": {
+      "item": "tm:obsidite_ingot"
+    },
+    "E": {
+      "item": "tm:iron_stick"
+    }
+  },
+  "result": {
+    "item": "tm:obsidite_hoe",
+    "count": 1
+  }
+}

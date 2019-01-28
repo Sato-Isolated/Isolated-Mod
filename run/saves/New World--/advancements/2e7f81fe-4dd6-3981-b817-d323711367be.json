@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "jungle_hills": "2018-12-02 21:49:04 +0100",
+      "jungle": "2018-12-02 21:51:11 +0100"
+    },
+    "done": false
+  }
+}

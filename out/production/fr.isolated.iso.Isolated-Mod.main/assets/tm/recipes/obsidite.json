@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "ZRZ",
+    "EZE"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:dye 1 4"
+    },
+    "E": {
+      "item": "minecraft:obsidian"
+    },
+    "Z": {
+      "item": "tm:obsidian_ingot"
+    }
+  },
+  "result": {
+    "item": "tm:obsidite",
+    "count": 1
+  }
+}

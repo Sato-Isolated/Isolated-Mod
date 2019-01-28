@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "tm:obsidite_ingot"
+    }
+  },
+  "result": {
+    "item": "tm:obsidite_chestplate",
+    "count": 1
+  }
+}

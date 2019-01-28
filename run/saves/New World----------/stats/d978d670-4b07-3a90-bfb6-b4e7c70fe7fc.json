@@ -1,0 +1,18 @@
+{
+  "stat.pickup.minecraft.rotten_flesh": 29,
+  "stat.flyOneCm": 14079,
+  "stat.walkOneCm": 8203,
+  "stat.drop": 12,
+  "stat.jump": 5,
+  "stat.swimOneCm": 984,
+  "stat.playOneMinute": 4353,
+  "stat.drop.minecraft.rotten_flesh": 29,
+  "stat.sneakTime": 46,
+  "stat.damageTaken": 312,
+  "stat.damageDealt": 17,
+  "stat.crouchOneCm": 203,
+  "stat.timeSinceDeath": 4353,
+  "stat.mobKills": 2,
+  "stat.sprintOneCm": 400,
+  "stat.useItem.minecraft.stone_slab2": 7
+}

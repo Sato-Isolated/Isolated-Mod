@@ -1,0 +1,22 @@
+{
+  "stat.flyOneCm": 1294,
+  "stat.walkOneCm": 14231,
+  "stat.drop.tm.emerald_hoe": 1,
+  "stat.drop": 1,
+  "stat.jump": 32,
+  "stat.useItem.tm.emerald_shovel": 54,
+  "stat.playOneMinute": 5873,
+  "stat.fallOneCm": 1105,
+  "stat.useItem.tm.emerald_sword": 2,
+  "stat.useItem.tm.emerald_pickaxe": 3,
+  "stat.sneakTime": 40,
+  "stat.timeSinceDeath": 5873,
+  "stat.useItem.tm.emerald_hoe": 9,
+  "stat.pickup.minecraft.dirt": 57,
+  "stat.useItem.minecraft.dirt": 18,
+  "stat.mineBlock.minecraft.dirt": 57,
+  "stat.sprintOneCm": 211,
+  "stat.pickup.minecraft.cobblestone": 3,
+  "stat.useItem.minecraft.stone_slab2": 3,
+  "stat.mineBlock.minecraft.stone": 3
+}

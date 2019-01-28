@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EZE",
+    "ZRZ",
+    "EZE"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:ender_pearl"
+    },
+    "E": {
+      "item": "minecraft:ghast_tear"
+    },
+    "Z": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "tm:demonic_eye",
+    "count": 1
+  }
+}

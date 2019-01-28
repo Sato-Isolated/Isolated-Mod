@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    " E ",
+    " E "
+  ],
+  "key": {
+    "R": {
+      "item": "tm:dragonscale_ingot"
+    },
+    "E": {
+      "item": "tm:iron_stick"
+    }
+  },
+  "result": {
+    "item": "tm:dragonscale_shovel",
+    "count": 1
+  }
+}
